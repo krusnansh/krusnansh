@@ -1,7 +1,7 @@
 # Hi, I'm Krusnansh Gupta 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Business+Analytics;Data+Analysis;Business+Intelligence;SQL+%7C+Python+%7C+Power+BI+%7C+Excel" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Business+Analytics;Data+Analysis;Product+Analytics;Business+Intelligence;SQL+%7C+Python+%7C+Power+BI+%7C+Excel" alt="Typing animation" />
 </p>
 
 I work at the intersection of **business, analytics, and technology**, with a focus on understanding business problems, analysing data, and translating findings into actionable decisions.
